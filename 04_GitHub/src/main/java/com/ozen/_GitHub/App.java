@@ -1,9 +1,5 @@
 package com.ozen._GitHub;
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
     public static void main( String[] args )
@@ -16,7 +12,9 @@ public class App
     }
 
 	private static void selamla() {
+		System.out.println( "-------------------" );
 		System.out.println( "Selam Github!" );
+		System.out.println( "-------------------" );
 		
 	}
 }
